@@ -2,6 +2,10 @@
 
 This is a Dockerfile to set up "ServiceNow MID Server" - (http://wiki.servicenow.com/index.php?title=MID_Server_Installation)
 
+The latest files are documented at (https://docs.servicenow.com/?context=CSHelp:MID-Server-Installer)
+
+Update to Madrid version (https://install.service-now.com/glide/distribution/builds/package/mid/2019/07/01/mid.madrid-12-18-2018__patch5-06-26-2019_07-01-2019_1425.linux.x86-64.zip )
+
 ## Build from docker file
 
 ```
